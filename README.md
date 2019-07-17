@@ -1,2 +1,1 @@
-# sagemaker-examples
-sagemaker examples 
+# Repo moved to https://github.com/IntelAI/aws-sagemaker-marketplace
